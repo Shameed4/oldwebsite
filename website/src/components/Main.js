@@ -7,7 +7,7 @@ const activities = [
                 + 'about libraries including TensorFlow, Numpy, Pandas, and Matplotlib, then passed that knowledge to our members '
                 + 'by planning interactive events with slideshows and Jupyter notebooks.',
         date: 'Nov 2022 - Present',
-        image: 'images/ai.jpg',
+        image: '/images/ai.jpg',
     },
     {
         activity: 'Stony Brook Computing Society',
@@ -17,7 +17,7 @@ const activities = [
                 + 'and we organized e-board meeting agendas. I also maintained the email newsletter to keep people updated on'
                 + 'upcoming events.',
         date: 'Oct 2022 - Present',
-        image: 'images/sbcs.jpg',
+        image: '/images/sbcs.jpg',
     },
     {
         title: 'Teaching Assistant',
